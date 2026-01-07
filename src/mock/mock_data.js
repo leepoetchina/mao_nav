@@ -8,9 +8,16 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1767804223735",
-          "name": "LeePoet Tech Note",
+          "name": "哲学系的李诗人",
           "url": "https://www.leepoet.cn/",
           "description": "分享Linux服务器管理、WordPress建站、AIGC工具(Stable Diffusion/Ollama)、网络通识等实战教程，白嫖免费资源、代码收藏和Github项目推荐",
+          "icon": "https://www.leepoet.cn/wp-content/uploads/2024/08/20240717032609.jpg"
+        },
+        {
+          "id": "site-1767804353480",
+          "name": "LeePoet Tech Note",
+          "url": "https://www.leepoet.com/",
+          "description": "The personal technology blog of Leepoet Online Note. It shares practical tutorials on Linux server management, WordPress website construction, AIGC tools (such as Stable Diffusion and Ollama), as well as network proxy technologies (V2Ray and Clash). The blog also provides free resources, code collections, and recommendations for Github projects.",
           "icon": "https://www.leepoet.cn/wp-content/uploads/2024/08/20240717032609.jpg"
         },
         {
